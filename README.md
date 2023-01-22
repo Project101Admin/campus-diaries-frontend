@@ -7,7 +7,7 @@
 5. open http://localhost:3000 in browser
 
 ## Workflow
-
+Install prettier extension
 When you are going to start with building a feature then follow these steps:
 
 1. git checkout master
