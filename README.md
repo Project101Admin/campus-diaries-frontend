@@ -21,4 +21,4 @@ When you are going to start with building a feature then follow these steps:
 
 # Note
 
-Do not push your changes to master branch directly. If you did so please let your leader know about this and get it resolved asap.
+Do not push your changes to master branch directly. If you did so please let your leader know about this and get it resolved asap. Also before merging any Pull Request into master, do let your leaders know. Only after their and my approval the pull request will get merged into master
