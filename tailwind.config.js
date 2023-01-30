@@ -8,7 +8,7 @@ module.exports = {
         DEFAULT: '2rem',
         sm: '2rem',
         lg: '3rem',
-        xl: '4rem',
+        xl: '3rem',
         '2xl': '6rem',
       },
       spacing: {
@@ -18,6 +18,7 @@ module.exports = {
         '4': '24px',
         '5': '32px',
         '6': '48px',
+        '128': '32rem',
       }
     },
   },

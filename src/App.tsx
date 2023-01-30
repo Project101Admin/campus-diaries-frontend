@@ -1,7 +1,7 @@
 import React from 'react';
 import NavBar from './components/HomePage/NavBar'
 import Body from './components/HomePage/Body'
-import Footer from './components/HomePage/Footer'
+// import Footer from './components/HomePage/Footer'
 
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <NavBar/>
       <Body/>
-      <Footer/>
+      
       
     </div>
   );

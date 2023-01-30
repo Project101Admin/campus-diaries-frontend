@@ -6,8 +6,8 @@ const NavBar: FunctionComponent = () => {
   return (
     <nav className='m-11  my-1 flex' >
         
-      <img src={logo} />
-      <img src={Samaan} />
+      <img src={logo} alt = "LOGO"/>
+      <img src={Samaan} alt = "SAMAAN"/>
     </nav>
   );
 };
